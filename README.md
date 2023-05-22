@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter and MERN/MEAN Development
 - 👨‍🏭 I'm currently working as a freelancer
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 Reach me at arjun@revamph.co.in 
+- 📫 Reach me at ig : @_notarjun
 - 🧠 Visit https://revamph.co.in/ for any kind of freelance work 
 
 <!---
