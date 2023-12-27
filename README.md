@@ -2,16 +2,22 @@
 
 ###
 
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversation AI, System Design<br>🎯 Goals: Retire my single mother and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!</p>
+
+###
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun3492&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
