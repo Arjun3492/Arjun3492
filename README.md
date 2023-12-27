@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversation AI, System Design<br>🎯 Goals: Retire my single mother and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversation AI, System Design<br>🎯 Goals:Make a living my single mother is proud of and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!</p>
 
 ###
 
