@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversation AI, System Design<br>🎯 Goals: Make a living my stars is proud of and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversation AI, System Design<br>🎯 Goals: Make a living my stars is proud of and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!<br/>💻 Experience: [Resume ➚](http://bit.ly/48Ahj1t)
+</p>
 
 ###
 
