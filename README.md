@@ -1,60 +1,43 @@
-<h2 align="left">Hi 👋! My name is Arjun Kohli and I'm a Full Stack Developer, from India</h2>
 
-###
+<h2>Hey, I'm Arjun Kohli 👋</h2>
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Conversational AI, System Design<br>🎯 Goals: Make a living my stars are proud of and contribute to the development world<br>🎲 Fun fact: I code in dark mode because light attracts bugs!<br/>
-</p>
+**Full Stack & AI Engineer | Building Scalable SaaS, Cloud Systems & AI-Powered Applications**
 
-###
+🚀 Building end-to-end products, from intuitive interfaces to distributed backend systems.<br>
+🤖 Exploring LLMs, AI Agents, RAG & Conversational AI.<br>
+⚡ Passionate about system design, automation & solving real-world problems.
 
-<div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun3492&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+### 🛠️ Tech Stack
 
-  <img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+**Languages & Frameworks**
 
-</div>
+<img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,fastapi" height="40" alt="Languages and Frameworks" />
 
-###
+**Backend, Cloud & DevOps**
 
+<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,aws,docker,cloudflare,githubactions" height="40" alt="Backend and Cloud" />
 
+**AI & GenAI**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0969DA?style=flat-square)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arjun3492&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Most Used Languages" />
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arjun-kohli-90b9491b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🌐 Connect
 
-###
+<a href="https://www.linkedin.com/in/arjun-kohli-90b9491b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+</a>
 
-<br clear="both">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/Arjun3492/Arjun3492/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!---
-Arjun3492/Arjun3492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjun3492/Arjun3492/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjun3492/Arjun3492/output/snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Arjun3492/Arjun3492/output/snake.svg" />
+</picture>
